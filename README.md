@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PangDlss24482) 
 
-!# 💻 Tech Stack:
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reeve_pang_guo_jun@students.edu.sg) 
 
