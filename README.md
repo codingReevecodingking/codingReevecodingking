@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on scratch
-- 🌱 I’m currently learning scratch
+- 🔭 I’m currently working on Scratch
+- 🌱 I’m currently learning Scratch
 - 👯 I’m looking to collaborate on scratch project
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about scratch
