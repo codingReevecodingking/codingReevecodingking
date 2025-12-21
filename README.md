@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on scratch project
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about scratch
-- 📫 How to reach me: Email me at reeve_pang_guo_jun@students.edu.sg (I am still a student)
+- 📫 How to reach me: Email me at [email](mailto:reeve_pang_guo_jun@students.edu.sg?subject=[GitHub]%20Source%20Han%20Sans)
 - ⚡ Fun fact: I love playing FC mobile in my free time
   
 
