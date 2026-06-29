@@ -1,6 +1,6 @@
 ## Hi there, I am Reeve Pang😎🐙🐡🐉
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=20&duration=7000&pause=1000&width=435&lines=likes playing soccer+love playing Roblox Rivals
+<img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 
 
 
