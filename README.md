@@ -10,11 +10,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Scratch
-- 🌱 I’m currently learning Scratch
-- 👯 I’m looking to collaborate on scratch project
-- 🤔 I’m looking for help with coding
-- 💬 Ask me about scratch
+- 🔭 I’m currently working to find Amelia Earhart's plane and flight 19
+- 🌱 I’m currently finding Amelia Earhart's plane in goggle earth
+- 👯 I’m looking to collaborate on goggle earth
+- 🤔 I’m looking for help with finding Amelia Earhart's plane
 - 📫 How to reach me: **[email](mailto:reeve_pang_guo_jun@students.edu.sg?subject=[GitHub]%20Source%20Han%20Sans) me**
 - ⚡ Fun fact: I love playing FC mobile in my free time
   
