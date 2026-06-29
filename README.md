@@ -1,5 +1,11 @@
 ## Hi there, I am Reeve Pang😎🐙🐡🐉
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=20&duration=7000&pause=1000&width=435&lines=Interested+in+research+and+development;Loves+working+on+Data+and+Cybersecurity+usecases)](https://git.io/typing-svg)
+
+
+
+
+
 
 **codingReevecodingking/codingReevecodingking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
